@@ -54,11 +54,11 @@ Directory for generated results and outputs.
 ## Requirements
 
 The project uses both Python and MATLAB. Required Python packages may include:
-numpy
-pandas
-xgboost
-shap
-statsmodels
-scikit-learn
+numpy  
+pandas  
+xgboost  
+shap  
+statsmodels  
+scikit-learn  
 
 MATLAB is required for running the .m scripts.
