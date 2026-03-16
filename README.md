@@ -11,16 +11,18 @@ The main functionalities include:
 - Theil–Sen slope estimation
 - Mann–Kendall trend testing
 
+
 ## Project Structure
 
-├── STL_decomposition.py
-├── 1-lag autocorrelation analysis.py
-├── Sen_MK_AR1.m
-├── example_run.m
-├── XGBoost+SHAP+TAC.py
-├── XGBoost+SHAP+deltaTAC.py
-├── input/
-└── output/
+├── STL_decomposition.py  
+├── 1-lag autocorrelation analysis.py  
+├── Sen_MK_AR1.m  
+├── example_run.m  
+├── XGBoost+SHAP+TAC.py  
+├── XGBoost+SHAP+deltaTAC.py  
+├── input/  
+└── output/  
+
 
 ## File Description
 
@@ -47,6 +49,7 @@ Directory for input datasets.
 
 ### output/
 Directory for generated results and outputs.
+
 
 ## Requirements
 
